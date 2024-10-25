@@ -3,6 +3,7 @@ This is our ✨ repo ✨ for the SF2956 TDA project @ KTH Stockholm
 
 ## Structure
 * ``data``: the folder with the data processing steps and the embedding retrieval script
+* ``analysis``: the folder with the scripts and notebooks that are used to perform the analysis
 
 ## Data
 
